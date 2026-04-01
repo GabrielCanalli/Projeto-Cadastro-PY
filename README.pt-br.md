@@ -27,5 +27,5 @@ Este é um projeto prático de um sistema de gerenciamento de usuários via term
    ```bash
    python main.py
 
-   Desenvolvido por Gabriel Canalli 🧑‍💻
+Desenvolvido por Gabriel Canalli 🧑‍💻
    
