@@ -27,4 +27,7 @@ This is a practical project of a user management system via terminal. The main f
    ```bash
    python main.py
 
-Developed by Gabriel Canalli 🧑‍💻
+---
+### 👤 Author
+**Gabriel Canalli**  
+*Systems Analysis and Development Student (3rd Semester)*
