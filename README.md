@@ -1,5 +1,5 @@
 # Registration-Project-PY
-Registration system in Pyth
+Registration system in Python
 
 
 # 🚀 Registration System (CRUD) with Python & SQLite
