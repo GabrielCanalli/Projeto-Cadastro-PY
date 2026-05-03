@@ -1,4 +1,4 @@
-# Registra
+# Registrati
 Sistema de cadastro em Python com SQLite3
 
 
